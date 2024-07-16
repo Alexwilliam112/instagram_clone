@@ -1,0 +1,43 @@
+export default reelsData = [
+
+  {
+    id: "3",
+    videoUri: "https://media.w3.org/2010/05/bunny/trailer.mp4",
+    userImage: "https://via.placeholder.com/40",
+    userName: "techgeek",
+    caption: "Latest tech review #tech ...",
+    likes: "35.4K",
+    comments: "200",
+    shares: "10.1K",
+  },
+  {
+    id: "4",
+    videoUri: "https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4",
+    userImage: "https://via.placeholder.com/40",
+    userName: "travelblogger",
+    caption: "Exploring the world #travel ...",
+    likes: "60.5K",
+    comments: "500",
+    shares: "30.2K",
+  },
+  {
+    id: "2",
+    videoUri: "https://www.w3schools.com/html/mov_bbb.mp4",
+    userImage: "https://via.placeholder.com/40",
+    userName: "gamerlife",
+    caption: "Game on! #gaminglife ...",
+    likes: "20.1K",
+    comments: "120",
+    shares: "5.8K",
+  },
+  {
+    id: "1",
+    videoUri: "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
+    userImage: "https://via.placeholder.com/40",
+    userName: "elchamogaming43",
+    caption: "READY OR NOT #readyornot ...",
+    likes: "49.6K",
+    comments: "378",
+    shares: "25.3K",
+  },
+];
